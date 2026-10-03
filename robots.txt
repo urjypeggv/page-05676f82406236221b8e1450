@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-18233d336f.yongchunfc.cn/sitemap.xml
